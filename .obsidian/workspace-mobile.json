@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кинезиология.md",
+                "file": "Боксерский рилс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кинезиология"
+              "title": "Боксерский рилс"
             }
           }
         ]
@@ -179,9 +179,12 @@
   },
   "active": "0cb6fabf90bfed99",
   "lastOpenFiles": [
-    "Мегалаполис.md",
-    "Кинезиология.md",
+    "Конфликтология.md",
+    "Боксерский рилс.md",
+    "Obsidian.md",
     "Давинчи.md",
+    "Кинезиология.md",
+    "Мегалаполис.md",
     "Djdjfkfkf.md",
     "Sync.md.md",
     "Gittest.md.md"
