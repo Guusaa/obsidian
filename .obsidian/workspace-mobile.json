@@ -11,10 +11,14 @@
             "id": "0cb6fabf90bfed99",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Планы/Higgsfield MCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Higgsfield MCP"
             }
           }
         ]
@@ -175,6 +179,7 @@
   },
   "active": "0cb6fabf90bfed99",
   "lastOpenFiles": [
+    "Планы/Статика для банка.md",
     "Другое/Индексы/Вперед - 00 - Индекс.md",
     "Личное/Развитие/Профиль пользователя для LLM.md",
     "Контент/Процесс/Экспорт истории чата.md",
